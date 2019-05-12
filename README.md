@@ -14,12 +14,13 @@ package.json
 
 #### 安装教程
 
-1. xxxx
+1. 别忘了安装node.js
 2. xxxx
 3. xxxx
 
 #### 使用说明
 
+0. npm install 安装所有依赖 
 1. npm run start 开始抓取文件会存在result中
 2. xxxx
 3. xxxx
